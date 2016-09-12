@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <Button
+            android:id="@+id/buttonMarketLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Login"
+            android:textAllCaps="false" />
+
+        <TextView
+            android:id="@+id/textViewMarketLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <LinearLayout
+            android:id="@+id/contentAfterLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/buttonMarketCategoryList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Category list"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketCategoryList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketCountryList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Country list"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketCountryList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketLanguageList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Language list"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketLanguageList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketAppDetails"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="App details"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketAppDetails"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketAppList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="App list"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketAppList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketRateList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="App rate list"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketRateList"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketSetAppRate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Set app rate"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketSetAppRate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketSetToken"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Set token"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketSetToken"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <Button
+                android:id="@+id/buttonMarketSetInstalledApps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Set installed apps"
+                android:textAllCaps="false" />
+
+            <TextView
+                android:id="@+id/textViewMarketSetInstalledApps"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+

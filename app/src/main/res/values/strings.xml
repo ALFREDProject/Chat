@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="calling_caregiver">Calling Caregiver...</string>
+
+
+
+    <string name="error">Error</string>
+    <string name="permissions_needed">Permissions needed!</string>
+    <string name="permissions_needed_descr">It is needed to accept all the permissions in order to run the application correctly.</string>
+    <string name="permissions_needed_check">Check Permissions</string>
+    <string name="permissions_needed_close">Close App</string>
+    <string name="permissions_needed_open">Open Settings</string>
+    <string name="videocalling_skype">Videocalling via Skype...</string>
+    <string name="install_skype">Install the Skype application to videocall.</string>
+    <string name="sms_sent">SMS Sent!</string>
+
+</resources>

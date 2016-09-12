@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="error">Erreur</string>
+    <string name="permissions_needed">Autorisations nécessaires! </string>
+    <string name="permissions_needed_check">Vérifiez les autorisations </string>
+    <string name="permissions_needed_close">Fermer App </string>
+    <string name="permissions_needed_descr">Il est nécessaire d\'accepter toutes les autorisations afin d\'exécuter l\'application correctement.</string>
+    <string name="permissions_needed_open">Ouvrez Paramètres </string>
+    <string name="sms_sent">SMS envoyé! </string>
+    <string name="videocalling_skype">Appel vidéo via Skype ... </string>
+    <string name="install_skype">Installez l\'application Skype pour appel vidéo. </string>
+    <string name="calling_caregiver">Appel en cours aidant</string>
+</resources>

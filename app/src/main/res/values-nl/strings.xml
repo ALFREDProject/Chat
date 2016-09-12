@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="error">Fout</string>
+    <string name="permissions_needed">Machtigingen nodig! </string>
+    <string name="permissions_needed_check">Controle Permissions </string>
+    <string name="permissions_needed_close">Sluiten App </string>
+    <string name="permissions_needed_descr">Het is nodig om alle permissies om de toepassing correcte werking accepteren.</string>
+    <string name="permissions_needed_open">Open instellingen </string>
+    <string name="sms_sent">SMS Verzonden! </string>
+    <string name="videocalling_skype">Videotelefonie via Skype ... </string>
+    <string name="install_skype">Installeer de Skype-applicatie om video-oproep. </string>
+    <string name="calling_caregiver">Contact met verzorger wordt opgenomen</string>
+</resources>
