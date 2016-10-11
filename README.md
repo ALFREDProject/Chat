@@ -15,10 +15,11 @@ Second, DDDs are required to be created, so the application can handle voice rec
 Once all the steps are configured it should be ok to start creating an Android application and to integrate the components required for the PA and the CADE. To do so, follow this steps:
 
 
-[### Add PA App](https://github.com/ALFREDProject/PersonalAssistentApp)
-[### Add PA Shared Library](https://github.com/ALFREDProject/PersonalAssistentCommons)
+[Add PA App](https://github.com/ALFREDProject/PersonalAssistentApp)
 
-[### Add CADE](https://github.com/ALFREDProject/DialogueDomainDescriptions)
+[Add PA Shared Library](https://github.com/ALFREDProject/PersonalAssistentCommons)
+
+[Add CADE](https://github.com/ALFREDProject/DialogueDomainDescriptions)
 
 ### Example applications
 
